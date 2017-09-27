@@ -9,4 +9,8 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 
 change again
+<<<<<<< HEAD
 this is master
+=======
+this is dev
+>>>>>>> dev
